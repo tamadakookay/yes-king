@@ -5,10 +5,7 @@ export const MOCK_POSTS: Post[] = [
   {
     id: 1,
     title: 'From Culinary Dreams to Marketing Journeys: A Story of Faith, Perseverance, and Growth',
-    category: 'Nature',
-    author: 'Elara Vance',
-    authorAvatar: 'https://i.ibb.co/KpWTfCJs/Opera-Snapshot-2025-11-14-164708-www-canva-com.png',
-    date: 'October 26, 2023',
+  
     excerpt: `When she first stepped into the gates of FEU Roosevelt, she wasn’t entirely sure if she belonged. Marketing Management wasn’t even her first dream. She once imagined herself wearing a chef’s apron and creating dishes instead of campaigns. But life, as it also tends to do, had other ideas. 
  
 "At first, I had no idea where I was going," she says. "But gradually, things began to make sense. 
@@ -61,10 +58,7 @@ This is the Tamaraw way—taking the next chapter not with fear, but with faith,
   {
     id: 2,
     title: 'Taking the Next Chapter — The Transitions That Define Us',
-    category: 'Lifestyle',
-    author: 'Liam Chen',
-    authorAvatar: 'https://picsum.photos/id/1005/100/100',
-    date: 'October 24, 2023',
+    category: 'Lifestyle'
     excerpt: `Every Tamaraw story begins in transition. 
 It’s not a quiet shift, but a test — a moment where uncertainty meets courage. At FEU Roosevelt, transition isn’t just about change; it’s about becoming. From the first day on campus to the last walk across the stage, each Tamaraw learns that growth doesn’t happen alone. It happens together — through shared struggle, discovery, and resilience. 
 And so begins the story of three Tamaraws — each stepping into FEUR with different hopes, fears, and strengths, unaware that their paths would intertwine and redefine not just who they are, but who they become. 
@@ -99,7 +93,6 @@ It's the start of the next one.`,
   {
 id: 3,
 title: '“The Heart That Never Left: A Teacher’s Journey Through Time”',
-date: 'October 22, 2023',
 excerpt: `When Sir Jason Carlos reflects on his journey, he smiles, the same smile that you see when one's story comes full circle. "Next year will be my 30th year of teaching,” he says with quiet pride. “I started my career here in 1995, but really, my story began long before that as a student walking through these same halls.”  
  
 A true -blooded Rooseveltian, he graduated from his high school at Roosevelt College in 1991, once dreaming to become an architect or interior designer “Those dreams didn’t happen,” he recalls, “because my family couldn’t afford to send me to those programs.” 

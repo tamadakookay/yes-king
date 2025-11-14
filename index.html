@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Verdant Words - A Nature & Lifestyle Blog</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'primary-green': '#104f3a',
+              'primary-gold': '#d4af37',
+              'primary-black': '#000000',
+              'secondary-brown': '#704214',
+              'secondary-dark-brown': '#4b2e05',
+              'neutral-darkest': '#2e2e2e',
+              'neutral-dark': '#3e3e3e',
+              'neutral-medium': '#8b8878',
+              'neutral-soft': '#9c8c84',
+              'accent-tan': '#d2b48c',
+              'accent-rose': '#c4a69f',
+              'accent-sand': '#dcc7aa',
+              'accent-cream': '#faebd7',
+              'accent-ivory': '#fff8dc',
+              'accent-stone': '#b0a89e',
+              'accent-light-gray': '#bfbfbf',
+              'accent-off-white': '#f2f2e9',
+            },
+            fontFamily: {
+              sans: ['"Helvetica Neue"', 'Helvetica', 'Arial', 'sans-serif'],
+              serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+            }
+          }
+        }
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/"
+  }
+}
+</script>
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

@@ -17,11 +17,11 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
     const isLongStory = story.length > characterLimit;
 
     return (
-        <div className="bg-white rounded-lg shadow-lg overflow-hidden lg:grid lg:grid-cols-2 lg:gap-4 items-center">
-            <div className="lg:order-2">
+        <div className="bg-white rounded-lg shadow-lg overflow-hidden lg:grid lg:grid-cols-5 lg:gap-8 items-center">
+            <div className="lg:order-2 lg:col-span-2">
                 <img src={post.imageUrl} alt={post.title} className="w-full h-64 lg:h-full object-cover"/>
             </div>
-            <div className="p-8 lg:p-12 lg:order-1">
+            <div className="p-8 lg:p-12 lg:order-1 lg:col-span-3">
                 <h1 className="text-3xl md:text-4xl font-bold font-serif text-neutral-darkest mb-3">{post.title}</h1>
                 <div className="text-neutral-soft text-lg mb-6 whitespace-pre-line">
                     <p>

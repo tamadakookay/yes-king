@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { IconInstagram, IconFacebook, IconTiktok } from '../constants';
 
@@ -7,7 +8,7 @@ const Footer: React.FC = () => {
             <div className="container mx-auto px-6 py-8">
                 <div className="flex flex-col items-center sm:flex-row sm:justify-between">
                     <div className="text-center sm:text-left mb-4 sm:mb-0">
-                        <p className="text-xl font-serif font-bold text-primary-gold">Verdant Words</p>
+                        <p className="text-xl font-serif font-bold text-primary-gold">Le Website de Moris</p>
                         <p className="text-sm text-neutral-medium mt-1">&copy; {new Date().getFullYear()} All Rights Reserved.</p>
                     </div>
                     <div className="flex items-center space-x-6">

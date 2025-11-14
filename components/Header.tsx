@@ -1,10 +1,10 @@
+
 import React, { useState } from 'react';
 import { IconMenu, IconX, IconInstagram, IconFacebook, IconTiktok } from '../constants';
 
 const NavLinks = () => (
     <>
         <a href="#" className="text-accent-sand hover:text-primary-gold transition-colors duration-300">Home</a>
-        <a href="#" className="text-accent-sand hover:text-primary-gold transition-colors duration-300">Contact</a>
     </>
 );
 
@@ -31,7 +31,7 @@ const Header: React.FC = () => {
             <div className="container mx-auto px-6 py-4">
                 <div className="flex items-center justify-between">
                     <div className="text-2xl font-serif font-bold text-primary-gold">
-                        Verdant Words
+                        Le Website de Moris
                     </div>
                     
                     <div className="hidden md:flex items-center">

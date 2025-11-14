@@ -7,7 +7,7 @@ export const MOCK_POSTS: Post[] = [
     title: 'From Culinary Dreams to Marketing Journeys: A Story of Faith, Perseverance, and Growth',
     category: 'Nature',
     author: 'Elara Vance',
-    authorAvatar: 'https://picsum.photos/id/1027/100/100',
+    authorAvatar: 'https://i.ibb.co/KpWTfCJs/Opera-Snapshot-2025-11-14-164708-www-canva-com.png',
     date: 'October 26, 2023',
     excerpt: `When she first stepped into the gates of FEU Roosevelt, she wasn’t entirely sure if she belonged. Marketing Management wasn’t even her first dream. She once imagined herself wearing a chef’s apron and creating dishes instead of campaigns. But life, as it also tends to do, had other ideas. 
  
@@ -55,7 +55,7 @@ And if she were to advise present-day FEU students on just one thing? She says i
 For her, FEU wasn’t just about academics. It was about transformation. It was about learning that showing up matters, that faith sustains, and that growth comes from courage, not certainty. 
  
 This is the Tamaraw way—taking the next chapter not with fear, but with faith, not with reluctance, but with heart. And as she moves increasingly into the world, she bears not only a degree, but a testament of strength, determination, and elegance.`,
-    imageUrl: 'https://storage.googleapis.com/aai-web-samples/user-provided/image.png',
+    imageUrl: 'https://i.ibb.co/KpWTfCJs/Opera-Snapshot-2025-11-14-164708-www-canva-com.png',
     readingTime: 7,
   },
   {
@@ -93,17 +93,14 @@ The Tamaraw Way isn’t about who finishes first, but who grows through the jour
 As they stand together now, ready to take the next chapter beyond FEU Roosevelt, they carry one legacy: every transition, no matter how uncertain, is an invitation to become something greater. 
 At FEUR, transition isn’t the end of the story; 
 It's the start of the next one.`,
-    imageUrl: 'https://picsum.photos/id/106/800/600',
+    imageUrl: 'https://i.ibb.co/fYCtYdrF/my-honest-reaction-my.gif',
     readingTime: 5,
   },
   {
-    id: 3,
-    title: '“The Heart That Never Left: A Teacher’s Journey Through Time”',
-    category: 'Outdoors',
-    author: 'Aria Petrova',
-    authorAvatar: 'https://picsum.photos/id/219/100/100',
-    date: 'October 22, 2023',
-    excerpt: `When Sir Jason Carlos reflects on his journey, he smiles, the same smile that you see when one's story comes full circle. "Next year will be my 30th year of teaching,” he says with quiet pride. “I started my career here in 1995, but really, my story began long before that as a student walking through these same halls.”  
+id: 3,
+title: '“The Heart That Never Left: A Teacher’s Journey Through Time”',
+date: 'October 22, 2023',
+excerpt: `When Sir Jason Carlos reflects on his journey, he smiles, the same smile that you see when one's story comes full circle. "Next year will be my 30th year of teaching,” he says with quiet pride. “I started my career here in 1995, but really, my story began long before that as a student walking through these same halls.”  
  
 A true -blooded Rooseveltian, he graduated from his high school at Roosevelt College in 1991, once dreaming to become an architect or interior designer “Those dreams didn’t happen,” he recalls, “because my family couldn’t afford to send me to those programs.” 
  
@@ -128,9 +125,12 @@ For him, discipline is still the key to it all. "Discipline is the precedent of 
 After nearly three decades of teaching, his pride shines brightly when he talks about his students. “Seeing them succeed in their careers that’s the true reward. That’s when you realize your work has made a difference.” As Roosevelt moves closer to its centennial celebration — around 2034 or 2035 — he reflects on what has kept the institution strong for almost a century. “There’s a principle I’ve always believed in,” he says with a knowing smile. ‘Proper Planning Prevents Poor Performance.’ “That’s what keeps this institution thriving: foresight, dedication, and passion. And that’s what I hope the next generation of Tamaraws will carry forward.” 
  
 If he had to describe Roosevelt’s evolution in one phrase, he answers without hesitation: “Discipline is the precedent of learning.” It's not a philosophy; it's the pulse of a teacher who has witnessed it all. From chalkboards to computers, from Roosevelt College to FEU Roosevelt, there remains one constant truth: the spirit of learning survives, adapting with the years but never losing its essence.`,
-    imageUrl: 'https://picsum.photos/id/1050/800/600',
-    readingTime: 9,
-  },
+imageUrl: 'https://i.ibb.co/ZpnY5yMW/Opera-Snapshot-2025-11-14-164816-www-canva-com.png',
+readingTime: 9,
+category: '',
+author: '',
+authorAvatar: ''
+},
 ];
 
 
